@@ -3,7 +3,6 @@ class Magic8Ball
   
   def initialize
     @answers = loadAnswers
-    # 
   end
   
   #---------------------
